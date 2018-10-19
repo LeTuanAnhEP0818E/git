@@ -1,3 +1,2 @@
-Hello world C++
 #include<stdio.h>
 #include<string.h>
